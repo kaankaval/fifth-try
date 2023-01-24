@@ -1,5 +1,10 @@
-<<<<<<< HEAD
 import cv2
-=======
-print('sa')
->>>>>>> master
+
+print('selam')
+print('ikinci satir')
+
+print('selam')
+print('ikinci satir')
+
+print('selam')
+print('ikinci satir')
